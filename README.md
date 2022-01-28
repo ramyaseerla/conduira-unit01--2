@@ -24,4 +24,5 @@ class LinqExercise5
                     Console.WriteLine("Character "+ArrEle.Key + ": " + ArrEle.Count()+" times");  
                     }  
     }
-}![Screenshot (99)](https://user-images.githubusercontent.com/83413515/151586609-195686ef-4dca-4d7b-a99e-ba494706eaf3.png)
+}![Screenshot (100)](https://user-images.githubusercontent.com/83413515/151586884-cf6349ac-5ee6-41e3-9ae5-367cfdaa52e9.png)
+
